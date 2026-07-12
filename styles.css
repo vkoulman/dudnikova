@@ -304,4 +304,6 @@ a { color: inherit; text-decoration: none; }
   .gratitude__item { width: 180px; height: 250px; }
   .hero__stats { gap: 24px; }
   .hero__photo-card { left: 0; }
+  .cta__socials { gap: 8px; }
+  .cta__socials a { flex: 1 1 0; min-width: 0; padding: 14px 8px; font-size: 15px; gap: 6px; }
 }
